@@ -1,0 +1,274 @@
+[
+    {
+        "targetDuration": 56,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "19"
+    },
+    {
+        "targetDuration": 53,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "18"
+    },
+    {
+        "targetDuration": 44,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "16"
+    },
+    {
+        "targetDuration": 120,
+        "activityGroup": "В",
+        "activityPhase": "Креп кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "33"
+    },
+    {
+        "targetDuration": 29.5,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "9"
+    },
+    {
+        "targetDuration": 22,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": -32.808398950000004,
+        "mdTo": 1152.5590551135,
+        "stepNo": "4"
+    },
+    {
+        "targetDuration": 24.5,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "6"
+    },
+    {
+        "targetDuration": 121,
+        "activityGroup": "В",
+        "activityPhase": "Креп кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "34"
+    },
+    {
+        "targetDuration": 102.7,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "27"
+    },
+    {
+        "targetDuration": 82,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 3435.039370065,
+        "stepNo": "24"
+    },
+    {
+        "targetDuration": 1,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": -32.808398950000004,
+        "mdTo": -32.808398950000004,
+        "stepNo": "1"
+    },
+    {
+        "targetDuration": 111.8,
+        "activityGroup": "В",
+        "activityPhase": "Креп кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "32"
+    },
+    {
+        "targetDuration": 30.5,
+        "activityGroup": "А",
+        "activityPhase": "Креп направлени",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "10"
+    },
+    {
+        "targetDuration": 88.7,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 3435.039370065,
+        "mdTo": 4251.96850392,
+        "stepNo": "25"
+    },
+    {
+        "targetDuration": 58,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "21"
+    },
+    {
+        "targetDuration": 34,
+        "activityGroup": "А",
+        "activityPhase": "Креп направлени",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "11"
+    },
+    {
+        "targetDuration": 107.7,
+        "activityGroup": "В",
+        "activityPhase": "Креп кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "30"
+    },
+    {
+        "targetDuration": 10,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": -32.808398950000004,
+        "mdTo": -32.808398950000004,
+        "stepNo": "2"
+    },
+    {
+        "targetDuration": 38,
+        "activityGroup": "А",
+        "activityPhase": "Креп направлени",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "13"
+    },
+    {
+        "targetDuration": 26.5,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "8"
+    },
+    {
+        "targetDuration": 111.7,
+        "activityGroup": "В",
+        "activityPhase": "Креп кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "31"
+    },
+    {
+        "targetDuration": 36.5,
+        "activityGroup": "А",
+        "activityPhase": "Креп направлени",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "12"
+    },
+    {
+        "targetDuration": 91.7,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "26"
+    },
+    {
+        "targetDuration": 25,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "7"
+    },
+    {
+        "targetDuration": 57,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "20"
+    },
+    {
+        "targetDuration": 106,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "28"
+    },
+    {
+        "targetDuration": 59.7,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "23"
+    },
+    {
+        "targetDuration": 22.5,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "5"
+    },
+    {
+        "targetDuration": 59,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "22"
+    },
+    {
+        "targetDuration": 39,
+        "activityGroup": "А",
+        "activityPhase": "Цем направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "14"
+    },
+    {
+        "targetDuration": 106.7,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 4251.96850392,
+        "mdTo": 4251.96850392,
+        "stepNo": "29"
+    },
+    {
+        "targetDuration": 12,
+        "activityGroup": "А",
+        "activityPhase": "Бурение направления",
+        "mdFrom": -32.808398950000004,
+        "mdTo": -32.808398950000004,
+        "stepNo": "3"
+    },
+    {
+        "targetDuration": 42,
+        "activityGroup": "А",
+        "activityPhase": "Цем направления",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "15"
+    },
+    {
+        "targetDuration": 48,
+        "activityGroup": "В",
+        "activityPhase": "Бурение кондуктора",
+        "mdFrom": 1152.5590551135,
+        "mdTo": 1152.5590551135,
+        "stepNo": "17"
+    }
+]

@@ -1,0 +1,34 @@
+<table mat-table [dataSource]="list" class="mat-elevation-z8">
+  <ng-container matColumnDef="stepNo">
+    <th mat-header-cell *matHeaderCellDef> stepNo </th>
+    <td mat-cell *matCellDef="let element"> {{element.stepNo}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="targetDuration">
+    <th mat-header-cell *matHeaderCellDef> targetDuration </th>
+    <td mat-cell *matCellDef="let element"> {{element.targetDuration}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="activityGroup">
+    <th mat-header-cell *matHeaderCellDef> activityGroup </th>
+    <td mat-cell *matCellDef="let element"> {{element.activityGroup}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="activityPhase">
+    <th mat-header-cell *matHeaderCellDef> activityPhase </th>
+    <td mat-cell *matCellDef="let element"> {{element.activityPhase}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="mdFrom">
+    <th mat-header-cell *matHeaderCellDef> mdFrom </th>
+    <td mat-cell *matCellDef="let element"> {{element.mdFrom}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="mdTo">
+    <th mat-header-cell *matHeaderCellDef> mdTo </th>
+    <td mat-cell *matCellDef="let element"> {{element.mdTo}} </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
