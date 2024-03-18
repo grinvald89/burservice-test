@@ -1,0 +1,10 @@
+app-root {
+  display: block;
+  height: 100%;
+  overflow: auto;
+
+  .mat-mdc-tab-group {
+    height: inherit;
+    overflow: auto;
+  }
+}
